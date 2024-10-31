@@ -1,5 +1,6 @@
 ### Статус сборки
 
+[![Build status](https://ci.appveyor.com/api/projects/status/tn2k7ojjue27cg0r?svg=true)](https://ci.appveyor.com/project/melnikonayana/react-hoc)
 
 ### Ссылка на GitHub Pages
 
