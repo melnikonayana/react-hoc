@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hoc/static/css/main.f4a03f6b.css",
+    "main.js": "/react-hoc/static/js/main.e64cff25.js",
+    "index.html": "/react-hoc/index.html",
+    "main.f4a03f6b.css.map": "/react-hoc/static/css/main.f4a03f6b.css.map",
+    "main.e64cff25.js.map": "/react-hoc/static/js/main.e64cff25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a03f6b.css",
+    "static/js/main.e64cff25.js"
+  ]
+}
